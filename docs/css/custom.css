@@ -91,7 +91,7 @@ main {
 .entry-meta {
   display: inline-block;
   margin-bottom: 2rem;
-  font-size: 1.7rem;
+  font-size: .8rem;
   color: #888;
 }
 .entry-notice {
@@ -105,6 +105,9 @@ main.single-page > article > span.entry-meta {
   display: block;
   width: 100%;
   text-align: center;
+}
+main.single-page > article > h1.entry-title {
+  font-size: 2.8rem;
 }
 main.single-page > article > section > h2 {
   border-left: 5px solid darkorange;

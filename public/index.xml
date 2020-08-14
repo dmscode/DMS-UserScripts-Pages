@@ -6,9 +6,46 @@
     <description>Recent content on 稻米鼠的油猴脚本们</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
+    <copyright>稻米鼠 All rights reserved.</copyright>
     
 	<atom:link href="https://script.izyx.xyz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Q&amp;A</title>
+      <link>https://script.izyx.xyz/question-and-answer/</link>
+      <pubDate>Fri, 14 Aug 2020 16:13:37 +0800</pubDate>
+      
+      <guid>https://script.izyx.xyz/question-and-answer/</guid>
+      <description>无法通过公众号文章进行付费 可以通过扫描如下二维码进行付款，付款后凭订单号加入此 QQ 群：709367798 如何使用油猴脚本 首先，你要给浏览器安装</description>
+    </item>
+    
+    <item>
+      <title>链接地址洗白白</title>
+      <link>https://script.izyx.xyz/clean-the-link/</link>
+      <pubDate>Fri, 14 Aug 2020 15:16:35 +0800</pubDate>
+      
+      <guid>https://script.izyx.xyz/clean-the-link/</guid>
+      <description>&lt;p&gt;将当前页面链接缩减到最短可用状态，并复制到剪切板，以方便分享。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>假装水墨屏</title>
+      <link>https://script.izyx.xyz/fake-ink-screen/</link>
+      <pubDate>Fri, 14 Aug 2020 15:16:12 +0800</pubDate>
+      
+      <guid>https://script.izyx.xyz/fake-ink-screen/</guid>
+      <description>&lt;p&gt;让网页以类似电子墨水屏的效果进行显示，支持浅色、深色、彩色，三种模式。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>自动展开全文</title>
+      <link>https://script.izyx.xyz/expand-the-article/</link>
+      <pubDate>Fri, 14 Aug 2020 07:34:57 +0800</pubDate>
+      
+      <guid>https://script.izyx.xyz/expand-the-article/</guid>
+      <description>&lt;p&gt;自动展开全文，而无需手动点击。&lt;/p&gt;</description>
+    </item>
     
   </channel>
 </rss>

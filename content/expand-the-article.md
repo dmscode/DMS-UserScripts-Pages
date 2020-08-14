@@ -6,6 +6,7 @@ paid: true
 price: "￥3.00"
 icon: "https://i.v2ex.co/b39y298il.png"
 link: "https://mp.weixin.qq.com/s/1kKm-CwG_kapnpRdN0o4vg"
+qrcode: "/images/expand-the-article.png"
 ---
 
 自动展开全文，而无需手动点击。

@@ -6,6 +6,7 @@ paid: true
 price: "￥3.00"
 icon: "https://i.v2ex.co/ZBz8SU50l.png"
 link: "https://mp.weixin.qq.com/s/m5Q8KN2JuT8Es2d0ityxdA"
+qrcode: "/images/fake-ink-screen.png"
 ---
 
 让网页以类似电子墨水屏的效果进行显示，支持浅色、深色、彩色，三种模式。

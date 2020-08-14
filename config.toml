@@ -5,6 +5,8 @@ author = "稻米鼠"
 
 Copyright = "稻米鼠 All rights reserved."
 
+publishdir = "docs"
+
 [params]
   logo      = "/images/logo.jpg"
 [params.navs]

@@ -6,10 +6,6 @@
     <description>Recent content in Categories on 稻米鼠的油猴脚本们</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>稻米鼠 All rights reserved.</copyright>
-    
-	<atom:link href="https://script.izyx.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>稻米鼠 All rights reserved.</copyright><atom:link href="https://script.izyx.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -3,9 +3,9 @@ title: "自动展开全文"
 date: 2020-08-14T07:34:57+08:00
 isCJKLanguage: true
 paid: true
-price: "￥3.00"
+price: "￥3.66"
 icon: "https://i.v2ex.co/b39y298il.png"
-link: "https://mp.weixin.qq.com/s/1kKm-CwG_kapnpRdN0o4vg"
+link: "https://mmbizurl.cn/s/z5bkHvpXL"
 qrcode: "/images/expand-the-article.png"
 ---
 

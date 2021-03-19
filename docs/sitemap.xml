@@ -1,46 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://script.izyx.xyz/input-replacer/</loc>
     <lastmod>2020-09-19T19:34:58+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://script.izyx.xyz/question-and-answer/</loc>
     <lastmod>2020-08-14T16:13:37+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://script.izyx.xyz/clean-the-link/</loc>
     <lastmod>2020-08-14T15:16:35+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://script.izyx.xyz/fake-ink-screen/</loc>
     <lastmod>2020-08-14T15:16:12+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://script.izyx.xyz/expand-the-article/</loc>
     <lastmod>2020-08-14T07:34:57+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://script.izyx.xyz/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://script.izyx.xyz/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://script.izyx.xyz/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://script.izyx.xyz/go-to-the-page-which-i-want/</loc>
   </url>
-  
 </urlset>

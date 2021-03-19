@@ -3,9 +3,9 @@ title: "假装水墨屏"
 date: 2020-08-14T15:16:12+08:00
 isCJKLanguage: true
 paid: true
-price: "￥3.00"
+price: "￥3.66"
 icon: "https://i.v2ex.co/ZBz8SU50l.png"
-link: "https://mp.weixin.qq.com/s/m5Q8KN2JuT8Es2d0ityxdA"
+link: "https://mmbizurl.cn/s/9vE75EtSo"
 qrcode: "/images/fake-ink-screen.png"
 ---
 

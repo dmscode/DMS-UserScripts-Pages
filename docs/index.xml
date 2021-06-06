@@ -8,6 +8,15 @@
     <language>zh-cn</language>
     <copyright>稻米鼠 All rights reserved.</copyright><atom:link href="https://script.izyx.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Reading mode for mobile</title>
+      <link>https://script.izyx.xyz/reading-mode-for-mobile/</link>
+      <pubDate>Sun, 06 Jun 2021 07:46:05 +0800</pubDate>
+      
+      <guid>https://script.izyx.xyz/reading-mode-for-mobile/</guid>
+      <description>&lt;p&gt;专门而为移动端设计的阅读模式，不依赖脚本管理器的 API，只要可以添加脚本的浏览器，应该都可以使用，也可以通过 Adguard 等软件进行添加。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Input Replacer</title>
       <link>https://script.izyx.xyz/input-replacer/</link>
       <pubDate>Sat, 19 Sep 2020 19:34:58 +0800</pubDate>

@@ -15,7 +15,7 @@ qrcode: "/images/reading-mode-for-mobile.png"
 
 脚本分为中文版和英文版。
 
-* 中文版免费，地址： 
+* 中文版免费，地址： https://greasyfork.org/zh-CN/scripts/427549
 * 英文版收费，更新会更勤快一些。
 
 两个版本都不提供任何售后服务，并不做任何开发方面的承诺。

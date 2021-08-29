@@ -3,10 +3,10 @@ title: "Input Replacer"
 date: 2020-09-19T19:34:58+08:00
 isCJKLanguage: true
 paid: true
-price: "￥3.66"
+price: "￥3.66（商品类型中选择【输入替换】）"
 icon: "https://i.v2ex.co/8t6RUhEhs.png"
-link: "https://mmbizurl.cn/s/B8yjrBDZK"
-qrcode: "/images/input-replacer.png"
+link: "https://mmbizurl.cn/s/DAQNlpQ4G"
+qrcode: "/images/scripts.png"
 ---
 
 在页面所有输入框中进行批量的查找替换。

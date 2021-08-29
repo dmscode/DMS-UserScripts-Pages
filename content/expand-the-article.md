@@ -3,10 +3,10 @@ title: "自动展开全文"
 date: 2020-08-14T07:34:57+08:00
 isCJKLanguage: true
 paid: true
-price: "￥3.66"
+price: "￥3.66（商品类型中选择【展开】）"
 icon: "https://i.v2ex.co/b39y298il.png"
-link: "https://mmbizurl.cn/s/z5bkHvpXL"
-qrcode: "/images/expand-the-article.png"
+link: "https://mmbizurl.cn/s/DAQNlpQ4G"
+qrcode: "/images/scripts.png"
 ---
 
 自动展开全文，而无需手动点击。

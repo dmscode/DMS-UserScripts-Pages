@@ -8,6 +8,24 @@
     <language>zh-cn</language>
     <copyright>稻米鼠 All rights reserved.</copyright><atom:link href="https://script.izyx.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>网页笔记卡片生成器</title>
+      <link>https://script.izyx.xyz/note-card/</link>
+      <pubDate>Tue, 12 Oct 2021 15:00:57 +0800</pubDate>
+      
+      <guid>https://script.izyx.xyz/note-card/</guid>
+      <description>&lt;p&gt;选中网页中的一段文字，启动生成器，填入自己的感想，就会生成一张笔记图片。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TOC</title>
+      <link>https://script.izyx.xyz/page-toc/</link>
+      <pubDate>Tue, 12 Oct 2021 14:43:57 +0800</pubDate>
+      
+      <guid>https://script.izyx.xyz/page-toc/</guid>
+      <description>&lt;p&gt;为当前页面添加 TOC 菜单。你可以理解为当前页面中所有标题的快速索引，这在阅读结构清晰的长篇页面时是非常有用的。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Reading mode for mobile</title>
       <link>https://script.izyx.xyz/reading-mode-for-mobile/</link>
       <pubDate>Sun, 06 Jun 2021 07:46:05 +0800</pubDate>

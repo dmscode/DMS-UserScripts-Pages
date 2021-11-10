@@ -8,6 +8,15 @@
     <language>zh-cn</language>
     <copyright>稻米鼠 All rights reserved.</copyright><atom:link href="https://script.izyx.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Link Cleaner</title>
+      <link>https://script.izyx.xyz/link-cleaner/</link>
+      <pubDate>Wed, 10 Nov 2021 15:24:47 +0800</pubDate>
+      
+      <guid>https://script.izyx.xyz/link-cleaner/</guid>
+      <description>&lt;p&gt;将当前页面链接缩减到最短可用状态，并复制到剪切板，以方便分享。这个脚本是&lt;a href=&#34;https://script.izyx.xyz/cleanthelink/&#34;&gt;链接地址洗白白&lt;/a&gt;的第二代&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>网页笔记卡片生成器</title>
       <link>https://script.izyx.xyz/note-card/</link>
       <pubDate>Tue, 12 Oct 2021 15:00:57 +0800</pubDate>

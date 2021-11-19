@@ -8,6 +8,15 @@
     <language>zh-cn</language>
     <copyright>稻米鼠 All rights reserved.</copyright><atom:link href="https://script.izyx.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Better video size</title>
+      <link>https://script.izyx.xyz/better-video-size/</link>
+      <pubDate>Wed, 10 Nov 2021 15:24:47 +0800</pubDate>
+      
+      <guid>https://script.izyx.xyz/better-video-size/</guid>
+      <description>&lt;p&gt;让适配移动端的视频在电脑端以我们更舒适的尺寸和位置进行显示。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Link Cleaner</title>
       <link>https://script.izyx.xyz/link-cleaner/</link>
       <pubDate>Wed, 10 Nov 2021 15:24:47 +0800</pubDate>

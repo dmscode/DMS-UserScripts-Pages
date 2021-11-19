@@ -1,10 +1,10 @@
 ---
 title: "Better video size"
-date: 2021-11-10T15:24:47+08:00
+date: 2021-11-19T11:56:07+08:00
 isCJKLanguage: true
 paid: true
 price: "￥3.66（商品类型中选择【其它】，然后联系客服说明一下）"
-icon: "/images/logo.png"
+icon: "/images/logo.jpg"
 link: "https://mmbizurl.cn/s/DAQNlpQ4G"
 qrcode: "/images/scripts.png"
 ---

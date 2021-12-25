@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>稻米鼠的油猴脚本们</title>
+    <link>https://script.izyx.xyz/</link>
+    <description>Recent content on 稻米鼠的油猴脚本们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>稻米鼠 All rights reserved.</copyright><atom:link href="https://script.izyx.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Better video size</title>
+      <link>https://script.izyx.xyz/better-video-size/</link>
+      <pubDate>Fri, 19 Nov 2021 11:56:07 +0800</pubDate>
+      
+      <guid>https://script.izyx.xyz/better-video-size/</guid>
+      <description>&lt;p&gt;让适配移动端的视频在电脑端以我们更舒适的尺寸和位置进行显示。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Link Cleaner</title>
+      <link>https://script.izyx.xyz/link-cleaner/</link>
+      <pubDate>Wed, 10 Nov 2021 15:24:47 +0800</pubDate>
+      
+      <guid>https://script.izyx.xyz/link-cleaner/</guid>
+      <description>&lt;p&gt;将当前页面链接缩减到最短可用状态，并复制到剪切板，以方便分享。这个脚本是&lt;a href=&#34;https://script.izyx.xyz/cleanthelink/&#34;&gt;链接地址洗白白&lt;/a&gt;的第二代&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>网页笔记卡片生成器</title>
+      <link>https://script.izyx.xyz/note-card/</link>
+      <pubDate>Tue, 12 Oct 2021 15:00:57 +0800</pubDate>
+      
+      <guid>https://script.izyx.xyz/note-card/</guid>
+      <description>&lt;p&gt;选中网页中的一段文字，启动生成器，填入自己的感想，就会生成一张笔记图片。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TOC</title>
+      <link>https://script.izyx.xyz/page-toc/</link>
+      <pubDate>Tue, 12 Oct 2021 14:43:57 +0800</pubDate>
+      
+      <guid>https://script.izyx.xyz/page-toc/</guid>
+      <description>&lt;p&gt;为当前页面添加 TOC 菜单。你可以理解为当前页面中所有标题的快速索引，这在阅读结构清晰的长篇页面时是非常有用的。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Reading mode for mobile</title>
+      <link>https://script.izyx.xyz/reading-mode-for-mobile/</link>
+      <pubDate>Sun, 06 Jun 2021 07:46:05 +0800</pubDate>
+      
+      <guid>https://script.izyx.xyz/reading-mode-for-mobile/</guid>
+      <description>&lt;p&gt;专门而为移动端设计的阅读模式，不依赖脚本管理器的 API，只要可以添加脚本的浏览器，应该都可以使用，也可以通过 Adguard 等软件进行添加。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Input Replacer</title>
+      <link>https://script.izyx.xyz/input-replacer/</link>
+      <pubDate>Sat, 19 Sep 2020 19:34:58 +0800</pubDate>
+      
+      <guid>https://script.izyx.xyz/input-replacer/</guid>
+      <description>&lt;p&gt;在页面所有输入框中进行批量的查找替换。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Q&amp;A</title>
+      <link>https://script.izyx.xyz/question-and-answer/</link>
+      <pubDate>Fri, 14 Aug 2020 16:13:37 +0800</pubDate>
+      
+      <guid>https://script.izyx.xyz/question-and-answer/</guid>
+      <description>支持作者 可以到爱发电请作者喝杯咖啡，支持一下~ （小老鼠会开心的打滚滚的嗷~~ 如何使用油猴脚本 首先，你要给浏览器安装一个扩展，而脚本则是指挥这</description>
+    </item>
+    
+    <item>
+      <title>链接地址洗白白</title>
+      <link>https://script.izyx.xyz/clean-the-link/</link>
+      <pubDate>Fri, 14 Aug 2020 15:16:35 +0800</pubDate>
+      
+      <guid>https://script.izyx.xyz/clean-the-link/</guid>
+      <description>&lt;p&gt;将当前页面链接缩减到最短可用状态，并复制到剪切板，以方便分享。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>假装水墨屏</title>
+      <link>https://script.izyx.xyz/fake-ink-screen/</link>
+      <pubDate>Fri, 14 Aug 2020 15:16:12 +0800</pubDate>
+      
+      <guid>https://script.izyx.xyz/fake-ink-screen/</guid>
+      <description>&lt;p&gt;让网页以类似电子墨水屏的效果进行显示，支持浅色、深色、彩色，三种模式。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>自动展开全文</title>
+      <link>https://script.izyx.xyz/expand-the-article/</link>
+      <pubDate>Fri, 14 Aug 2020 07:34:57 +0800</pubDate>
+      
+      <guid>https://script.izyx.xyz/expand-the-article/</guid>
+      <description>&lt;p&gt;自动展开全文，而无需手动点击。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>跳转到我想要的页面</title>
+      <link>https://script.izyx.xyz/go-to-the-page-which-i-want/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://script.izyx.xyz/go-to-the-page-which-i-want/</guid>
+      <description>&lt;p&gt;让网页自动跳转到我所期望的页面之中，而不需要手动确认，复制或者编辑网址。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

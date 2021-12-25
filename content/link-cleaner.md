@@ -3,10 +3,9 @@ title: "Link Cleaner"
 date: 2021-11-10T15:24:47+08:00
 isCJKLanguage: true
 paid: true
-price: "￥3.66（商品类型中选择【Link cleaner】）"
+price: "￥6.66"
 icon: "https://i.v2ex.co/vpQpSrfgl.png"
-link: "https://mmbizurl.cn/s/DAQNlpQ4G"
-qrcode: "/images/scripts.png"
+link: "https://afdian.net/item?plan_id=17470994655611ecaf9452540025c377"
 ---
 
 将当前页面链接缩减到最短可用状态，并复制到剪切板，以方便分享。这个脚本是[链接地址洗白白](/cleanthelink/)的第二代

@@ -3,10 +3,9 @@ title: "TOC"
 date: 2021-10-12T14:43:57+08:00
 isCJKLanguage: true
 paid: true
-price: "￥3.66（商品类型中选择【TOC 菜单】）"
+price: "￥6.66"
 icon: "https://i.v2ex.co/hxfSkJi0b.png"
-link: "https://mmbizurl.cn/s/DAQNlpQ4G"
-qrcode: "/images/scripts.png"
+link: "https://afdian.net/item?plan_id=c54dc856655211ecafbb52540025c377"
 ---
 
 为当前页面添加 TOC 菜单。你可以理解为当前页面中所有标题的快速索引，这在阅读结构清晰的长篇页面时是非常有用的。

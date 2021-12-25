@@ -11,8 +11,7 @@
         <p class="entry-notice"><strong>【请在购买前确认了解如何使用油猴脚本】</strong></p>
         <hr>
         <p><strong>【脚本价格】： </strong>{{ .Params.price }}</p>
-        <p><strong>【购买链接】： </strong><a href="{{ .Params.link }}" target="_blank">{{ .Params.link }}</a>（请在手机微信中打开）</p>
-        <p><strong>【微信二维码】： </strong><img src="{{ .Params.qrcode }}" alt="" width="196"></p>
+        <p><strong>【购买链接】： </strong><a href="{{ .Params.link }}" target="_blank">点此进入</a></p>
         <p><strong>【其他渠道】： </strong>更多付款方式请至 <a href="/question-and-answer/">Q&A</a> 页面</p>
         {{ else if .Params.link }}
         <p><strong>【脚本链接】： </strong><a href="{{ .Params.link }}" target="_blank">{{ .Params.link }}</a></p>

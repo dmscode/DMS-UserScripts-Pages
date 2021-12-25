@@ -3,10 +3,9 @@ title: Reading mode for mobile
 date: 2021-06-06T07:46:05+08:00
 isCJKLanguage: true
 paid: true
-price: "￥6.66+"
+price: "￥8.88+"
 icon: "https://i.v2ex.co/L00DUOAOl.png"
-link: "https://mmbizurl.cn/s/yJK2MTO8f"
-qrcode: "/images/reading-mode-for-mobile.png"
+link: ""
 ---
 
 专门而为移动端设计的阅读模式，不依赖脚本管理器的 API，只要可以添加脚本的浏览器，应该都可以使用，也可以通过 Adguard 等软件进行添加。

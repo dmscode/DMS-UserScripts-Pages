@@ -3,10 +3,9 @@ title: "网页笔记卡片生成器"
 date: 2021-10-12T15:00:57+08:00
 isCJKLanguage: true
 paid: true
-price: "￥3.66（商品类型中选择【笔记卡片】）"
+price: "￥6.66"
 icon: "https://i.v2ex.co/r7SSpP92b.png"
-link: "https://mmbizurl.cn/s/DAQNlpQ4G"
-qrcode: "/images/scripts.png"
+link: "https://afdian.net/item?plan_id=eba637da655311ecab5552540025c377"
 ---
 
 选中网页中的一段文字，启动生成器，填入自己的感想，就会生成一张笔记图片。

@@ -3,10 +3,9 @@ title: "自动展开全文"
 date: 2020-08-14T07:34:57+08:00
 isCJKLanguage: true
 paid: true
-price: "￥3.66（商品类型中选择【自动展开】）"
+price: "￥6.66"
 icon: "https://i.v2ex.co/b39y298il.png"
-link: "https://mmbizurl.cn/s/DAQNlpQ4G"
-qrcode: "/images/scripts.png"
+link: "https://afdian.net/item?plan_id=b93a3684654e11ec97f652540025c377"
 ---
 
 自动展开全文，而无需手动点击。

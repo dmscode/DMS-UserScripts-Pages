@@ -3,10 +3,9 @@ title: "Better video size"
 date: 2021-11-19T11:56:07+08:00
 isCJKLanguage: true
 paid: true
-price: "￥3.66（商品类型中选择【其它】，然后联系客服说明一下）"
+price: "￥6.66"
 icon: "/images/logo.jpg"
-link: "https://mmbizurl.cn/s/DAQNlpQ4G"
-qrcode: "/images/scripts.png"
+link: "https://afdian.net/item?plan_id=49c1629c655711ec899e52540025c377"
 ---
 
 让适配移动端的视频在电脑端以我们更舒适的尺寸和位置进行显示。
